@@ -1,3 +1,3 @@
 # My writings
 
-[Bhangarh - A Haunted Tale](/bhangarh)
+[Bhangarh - A Haunted Tale](/r-stories/bhangarh)
