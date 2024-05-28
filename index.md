@@ -1,2 +1,2 @@
-Read my below writings
+# My writings
 [Bhangarh - A Haunted Tale]: /bhangarh
