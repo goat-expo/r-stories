@@ -1,4 +1,4 @@
 # My writings 
-## RAGHAV KATHPAL 
+## BY RAGHAV KATHPAL 
 
 [Bhangarh - A Haunted Tale](/r-stories/bhangarh)
