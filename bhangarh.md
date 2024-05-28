@@ -1,3 +1,3 @@
 # Bhangarh 
 
-Once there was a boy
+Once there was a king
