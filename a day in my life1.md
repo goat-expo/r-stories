@@ -1,2 +1,1 @@
 # A DAY IN MY LIFE1
-today I wake up at 9am then do my exam from 9to9:30and then I play games to 10:30 pm then I eat breakfast till 11'o clock then play games till 11:45 then started working on my website till 12:02pm
