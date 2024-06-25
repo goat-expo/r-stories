@@ -7,6 +7,6 @@
 
 ### New story coming soon
 <br> 
-<p>hello</p>
+bgColor="#003300"
 
 
