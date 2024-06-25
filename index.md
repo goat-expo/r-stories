@@ -6,3 +6,8 @@
 [a day in my life1](/r-stories/a day in my life1)
 
 ### New story coming soon
+<br> 
+<p>hello</p>
+
+
+</br>
