@@ -6,7 +6,7 @@
 [a day in my life1](/r-stories/a day in my life1)
 
 ### New story coming soon
-<br> 
-bgColor= #003300
+A very <span style='color: red;'>long</span> sentence.
+
 
 
