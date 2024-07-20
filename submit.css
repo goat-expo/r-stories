@@ -1,3 +1,22 @@
 body{
-color-red
+    animation: changeBackground 3s infinite alternative linear;
+}
+@keyframes changeBackground{
+0%{
+background:#ee6055
+}
+25%{
+background:blue
+}
+50%{
+background:#aaf683
+}
+75%{
+background:white
+}
+100%{
+background:red
+}
+
+
 }
