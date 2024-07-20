@@ -3,19 +3,19 @@ body{
 }
 @keyframes changeBackground {
 0%{
-background:#ee6055
+background: #ee6055;
 }
 25%{
-background:blue
+background: blue;
 }
 50%{
-background:#aaf683
+background: #aaf683;
 }
 75%{
-background:white
+background: white;
 }
 100%{
-background:red
+background: red;
 }
 
 
