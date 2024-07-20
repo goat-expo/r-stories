@@ -1,7 +1,7 @@
 body{
     animation: changeBackground 3s infinite alternative linear;
 }
-@keyframes changeBackground{
+@keyframes changeBackground {
 0%{
 background:#ee6055
 }
